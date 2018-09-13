@@ -6,7 +6,7 @@ images-table.sql – contains the database table structure and sample data used 
 
 include/connect.php – used for database connection and configuration.
  
-upload.php - used to receive the uploaded image and data and post them to mysql
+upload.php - used to receive the uploaded data, image into server and db.
  
 Developed By: Mohammed Altoobi 
 
